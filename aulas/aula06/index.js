@@ -1,5 +1,7 @@
 // 1. Importar o framework
 const express = require("express");
+//importar ,iddleware de terceiros
+const cors = require
 
 // 2. criar uma instancia da aplicação 
 const app = express();
